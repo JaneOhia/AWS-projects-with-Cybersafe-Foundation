@@ -1,1 +1,13 @@
 AWS Budgets is a service used to monitor spending and set alerts on when budget threshold are about to be exceeded.
+
+STEPS
+Go to AWS budgets on the console.
+Click on it.
+Create a new budget
+Choose budget type: cost,usage,savings plan or reservation.
+Click on next
+Input budget name
+Input other details
+Set threshold
+Configure alerts
+Create
